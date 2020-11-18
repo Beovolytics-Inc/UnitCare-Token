@@ -30,15 +30,17 @@ In Figure 1 the token economy of the Health Information Traceability platform is
 #### Figure 1. UNC Token economy
 
 
+
+
 ##### Use cases for tokenizing health information:
 
-• Research
+- Research
 Researchers have direct access to potential study participants 
 
-• Population health data
+- Population health data
 Population survey and representative surveys can be conducted via contacting individuals directly 
 
-• Compliance Support 
+- Compliance Support 
 Individuals receive tokens when predefined health goals that are incorporated in a digital contract are achieved.
 
 
@@ -46,6 +48,7 @@ Individuals receive tokens when predefined health goals that are incorporated in
 #### Solutions with Blockchain-enabled ecosystem
 
 Such a distributed ecosystem can be implemented with Blockchain technology, making transaction processes transparent and more efficient at the same time. A Blockchain-based token system is predestined to align incentives among ecosystem participants, for example, providers of health information and those who want to analyse health data. It allows the latter to have direct access to providers of health information without the need for intermediaries. At the same time, it puts individuals in control of the use and monetisation of their health data. Tokenization of health data motivates individuals to make their data shareable, thus solving the fundamental problem of modern healthcare.
+
 
 
 #### Key points
